@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: https://donaldos.github.io
+  - title: "About"
+    url: /about/
+  - title: "Life style"
+    url: /lifestyle/
+  - title: "Development story"
+    url: /devlopmentstory/
+  - title: "Tip"    
+    url: /tip/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
