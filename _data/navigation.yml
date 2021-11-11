@@ -7,7 +7,7 @@ main:
   - title: "Life style"
     url: /lifestyle/
   - title: "Development story"
-    url: /devlopmentstory/
+    url: /developmentstories/
   - title: "Tip"    
     url: /tip/
   # - title: "About"
